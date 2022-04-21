@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamMAHAM
 - 👀 I’m interested in Coding , hacking and art 
-- 🌱 I’m currently learning Software engeenering
+- 🌱 I’m currently learning Software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

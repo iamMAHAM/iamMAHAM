@@ -92,8 +92,6 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamMAHAM&exclude_repo=nan.ci,naniens,e-store)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 iamMAHAM/iamMAHAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -46,12 +46,6 @@ I enjoy learning new technologies, turning ideas into products, and solving prac
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamMAHAM&theme=default" alt="Most used languages" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamMAHAM/iamMAHAM/gh-pages/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamMAHAM/iamMAHAM/gh-pages/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/iamMAHAM/iamMAHAM/gh-pages/github-contribution-grid-snake.svg" />
-</picture>
-
 ## Currently
 
 - Improving my full-stack development skills

@@ -42,14 +42,14 @@ I enjoy learning new technologies, turning ideas into products, and solving prac
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamMAHAM&show_icons=true&hide_border=true&theme=transparent" alt="Abdul Maham's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamMAHAM&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamMAHAM&theme=default" alt="Abdul Maham's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamMAHAM&theme=default" alt="Most used languages" />
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamMAHAM/iamMAHAM/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamMAHAM/iamMAHAM/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/iamMAHAM/iamMAHAM/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamMAHAM/iamMAHAM/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamMAHAM/iamMAHAM/gh-pages/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/iamMAHAM/iamMAHAM/gh-pages/github-contribution-grid-snake.svg" />
 </picture>
 
 ## Currently
